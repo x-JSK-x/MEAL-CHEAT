@@ -1,0 +1,2 @@
+# MEAL-CHEAT
+Eine schlanke Web-App zur persönlichen Mahlzeitenplanung. Frühstück, Mittagessen, Abendessen und Snacks – übersichtlich sortiert, mit Favoritenfunktion und einem Cheat Day Modus für die Tage, wo es ruhig auch mal Pommes sein darf. Gebaut als single-file HTML-App, gehostet auf GitHub Pages.
